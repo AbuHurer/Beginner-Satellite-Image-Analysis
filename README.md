@@ -149,7 +149,7 @@ plt.tight_layout()
 plt.show()
 ```
 
-<p>This image was captured from "eos landviewer"</p>
+<p>The image used is uploaded and was captured from "eos landviewer"</p>
 <code>LOCATION:The Nilgiris,Nilgiri District, Tamil Nadu.</code><br>
 <code>COORDINATES:11.39709°N 76.58521°E</code><br>
 <code>AREA:25.00 km²</code><br>
